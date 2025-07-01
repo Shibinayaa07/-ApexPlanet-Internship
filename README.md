@@ -27,12 +27,3 @@ A simple **Blogger-style** web application built with **PHP**, **MySQL**, and **
 | **XAMPP**     | Local development environment |
 | **Git & GitHub** | Version control system     |
 
----
-
-## ⚙️ Installation Guide
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/php-blog-crud.git
-cd php-blog-crud
